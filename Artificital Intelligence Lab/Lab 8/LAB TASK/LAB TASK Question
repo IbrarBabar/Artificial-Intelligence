@@ -1,0 +1,17 @@
+https://www.kaggle.com/datasets/alxmamaev/flowers-recognition
+
+
+1. Download the dataset from above link.
+2. Apply Preprocessing
+    Normalization pixel values between 0-1.
+    Convert images into 28x28 if not in specified shape.
+    Convert images to greyscale, if not already,
+    Google for other preprocessing steps and apply them.
+    Split into train and test.
+3. Develop a neural network with 3 Hidden layers and 1 output layer.
+    Neurons in layer 1: 1000
+    Neurons in layer 2: 500
+    Neurons in layer 3: 250
+    Neurons in output layer: (Decide it by yourself)
+4. Train Model with different number of epochs until you get the test accuracy above 95%.
+5. Report Confusion matrix and test accuracy
