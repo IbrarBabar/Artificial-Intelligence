@@ -1,2 +1,2 @@
 # Artificial-Intelligence
-The Repo includes AI Course Assignments, AI lab Tasks.
+The Repo includes AI Course Assignments, AI lab Tasks with solutions.
